@@ -1,3 +1,4 @@
 first file of the folder
 second line of the file
 third line added
+forth line added
