@@ -2,3 +2,4 @@ first file of the folder
 second line of the file
 third line added
 forth line added
+this is one of the best part of the git, which is you can change branch of the git.
